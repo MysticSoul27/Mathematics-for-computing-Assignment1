@@ -1,6 +1,6 @@
 Mathematics for Computing Assignment-1
 
-Name: Aleena Mary John
+Name:Aleena Mary John
 
 Course: M.Tech in Computer Science and Engineering with specialization in AI and Software Engineering
 
